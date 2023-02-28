@@ -1,0 +1,23 @@
+{
+    "server": {
+        "port": 3148
+    },
+    "#dbUrl": "mongodb+srv://momenalhendawy:Gk4V0DU2NCGgQfUO@cluster0.av9rw4u.mongodb.net/WHS",
+    "dbUrl": "mongodb://localhost:27017/WHS",
+    "liveServer": "Ez-compliance-api.feur.com.au",
+    "secrertKey": "WHS",
+    "staticFilesUrl": "http://127.0.0.1:3148/static/",
+    "smsKey": "",
+    "uploadUrl": "public/uploads/",
+    "razorpay": {
+        "key_id": "rzp_test_BGRAECOgDA0GUm",
+        "key_secret": "onNTgFP141scPreJVlGmNDEs"
+    },
+    "auth": {
+        "user": "InsureNowco@gmail.com",
+        "pass": "bycrljgqbkjaamxk",
+        "smtp": "smtp.gmail.com",
+        "port": 587,
+        "security": "TLS"
+    }
+}
