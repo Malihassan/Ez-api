@@ -2,8 +2,8 @@
     "server": {
         "port": 3148
     },
-    "#dbUrl": "mongodb+srv://momenalhendawy:Gk4V0DU2NCGgQfUO@cluster0.av9rw4u.mongodb.net/WHS",
-    "dbUrl": "mongodb://localhost:27017/WHS",
+    "dbUrl": "mongodb+srv://momenalhendawy:Gk4V0DU2NCGgQfUO@cluster0.av9rw4u.mongodb.net/WHS",
+    "#dbUrl": "mongodb://localhost:27017/WHS",
     "liveServer": "Ez-compliance-api.feur.com.au",
     "secrertKey": "WHS",
     "staticFilesUrl": "http://127.0.0.1:3148/static/",
